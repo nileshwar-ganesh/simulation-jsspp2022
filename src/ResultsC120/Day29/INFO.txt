@@ -1,0 +1,1 @@
+Here, in this folder, you can find the simulation results for day 29; with a core cut-off of 120

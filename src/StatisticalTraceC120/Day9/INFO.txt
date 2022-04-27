@@ -1,0 +1,1 @@
+Here, in this folder, you can find the statistical trace generated for day 9; with a core cut-off of 120
